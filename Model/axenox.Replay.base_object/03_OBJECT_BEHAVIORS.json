@@ -49,12 +49,12 @@
     "rows": [
         {
             "CREATED_ON": "2019-02-07 21:13:48",
-            "MODIFIED_ON": "2019-02-07 21:13:48",
+            "MODIFIED_ON": "2019-02-25 06:06:29",
             "CREATED_BY_USER": "0x31000000000000000000000000000000",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x11e92b1d42e8630585770205857feb80",
             "BEHAVIOR": "exface\/Core\/Behaviors\/TimeStampingBehavior.php",
-            "CONFIG_UXON": "{\"created_on_attribute_alias\":\"CREATED_ON\",\"updated_on_attribute_alias\":\"MODIFIED_ON\"}",
+            "CONFIG_UXON": "{\"created_on_attribute_alias\":\"created_on\",\"updated_on_attribute_alias\":\"modified_on\"}",
             "OBJECT": "0x11e92b1aa2e9513685770205857feb80",
             "APP": "0x11e92ad8e961c36e85770205857feb80",
             "NAME": "Check for conflicts before writing",

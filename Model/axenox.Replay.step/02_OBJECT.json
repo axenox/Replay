@@ -77,14 +77,14 @@
     "rows": [
         {
             "CREATED_ON": "2019-02-07 21:03:50",
-            "MODIFIED_ON": "2019-02-07 21:03:50",
+            "MODIFIED_ON": "2019-02-25 05:58:51",
             "CREATED_BY_USER": "0x31000000000000000000000000000000",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x11e92b1bde9a943885770205857feb80",
             "READABLE_FLAG": "1",
             "WRITABLE_FLAG": "1",
-            "COMMENTS": null,
-            "DOCS": null,
+            "COMMENTS": "",
+            "DOCS": "",
             "NAME": "Step",
             "DATA_SOURCE": "0x11e92ad90f3ca21485770205857feb80",
             "APP": "0x11e92ad8e961c36e85770205857feb80",
@@ -93,7 +93,7 @@
             "DATA_ADDRESS_PROPS": null,
             "DEFAULT_EDITOR_UXON": null,
             "ALIAS": "step",
-            "DATA_ADDRESS": "step"
+            "DATA_ADDRESS": "arp_step"
         }
     ],
     "totals_rows": [],

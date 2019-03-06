@@ -1,0 +1,11 @@
+{
+	"ACTION.RECORDINGSTART.NAME": "Aufzeichnung starten",
+	"ACTION.RECORDINGSTART.STARTED": "Alle Aktionen werden ab jetzt aufgezeichnet!",
+	"ACTION.RECORDINGSTART.ALREADY_RECORDING": "Aufzeichnung läuft bereits!",
+	
+    "ACTION.RECORDINGSTOP.NAME": "Aufzeichnung stoppen",
+    "ACTION.RECORDINGSTOP.STOPPED": "Aufzeichnung beendet.",
+    "ACTION.RECORDINGSTOP.NOT_RECORDING": "Aufzeichnung war bereits aus.",
+    
+    "CONTEXT.ACTIONTEST.NAME": "ActionTest"	
+}
