@@ -165,7 +165,7 @@
     "rows": [
         {
             "CREATED_ON": "2019-02-25 06:00:59",
-            "MODIFIED_ON": "2019-02-25 06:00:59",
+            "MODIFIED_ON": "2019-02-25 06:14:29",
             "CREATED_BY_USER": "0x31000000000000000000000000000000",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x11e938c2aa2621f48c660205857feb80",
@@ -189,8 +189,8 @@
             "DATA_ADDRESS": "name",
             "OBJECT": "0x11e92b1bde99e3af85770205857feb80",
             "FORMATTER": null,
-            "DISPLAYORDER": null,
-            "LABELFLAG": "0",
+            "DISPLAYORDER": "1",
+            "LABELFLAG": "1",
             "UIDFLAG": "0",
             "HIDDENFLAG": "0",
             "EDITABLEFLAG": "1",
@@ -201,13 +201,13 @@
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
             "DATA_ADDRESS_PROPS": null,
-            "DEFAULT_VALUE": null,
+            "DEFAULT_VALUE": "",
             "FIXED_VALUE": null,
             "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2019-02-25 06:00:59",
-            "MODIFIED_ON": "2019-02-25 06:00:59",
+            "MODIFIED_ON": "2019-02-25 06:14:29",
             "CREATED_BY_USER": "0x31000000000000000000000000000000",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x11e938c2aa26a7908c660205857feb80",
@@ -243,13 +243,13 @@
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
             "DATA_ADDRESS_PROPS": null,
-            "DEFAULT_VALUE": null,
+            "DEFAULT_VALUE": "",
             "FIXED_VALUE": null,
             "CUSTOM_DATA_TYPE": null
         },
         {
             "CREATED_ON": "2019-02-25 06:00:59",
-            "MODIFIED_ON": "2019-02-25 06:00:59",
+            "MODIFIED_ON": "2019-02-25 06:14:29",
             "CREATED_BY_USER": "0x31000000000000000000000000000000",
             "MODIFIED_BY_USER": "0x31000000000000000000000000000000",
             "UID": "0x11e938c2aa26cfa48c660205857feb80",
@@ -273,7 +273,7 @@
             "DATA_ADDRESS": "test_case_no",
             "OBJECT": "0x11e92b1bde99e3af85770205857feb80",
             "FORMATTER": null,
-            "DISPLAYORDER": null,
+            "DISPLAYORDER": "2",
             "LABELFLAG": "0",
             "UIDFLAG": "0",
             "HIDDENFLAG": "0",
@@ -285,7 +285,7 @@
             "RELATED_OBJ_ATTR": "",
             "SHORT_DESCRIPTION": "",
             "DATA_ADDRESS_PROPS": null,
-            "DEFAULT_VALUE": null,
+            "DEFAULT_VALUE": "",
             "FIXED_VALUE": null,
             "CUSTOM_DATA_TYPE": null
         }
