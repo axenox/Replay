@@ -136,7 +136,7 @@ class RunTest extends AbstractAction
         $result = ResultFactory::createDataResult($task, $result_sheet);
         $result->setMessage($saved_test_data->countRows() . ' test(s) run: ' . $total_errors . ' errors, ' . $total_warnings . ' warnings');
         
-        return;
+        return $result;
     }
 
     protected function prepareEnvironment(ActionInterface $action)
