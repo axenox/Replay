@@ -34,7 +34,7 @@ class ShowDiffDialog extends ShowDialog
     {
         // Fetch the currently saved test data
         $saved_test_data = DataSheetFactory::createFromObjectIdOrAlias($this->getWorkbench(), 'EXFACE.ACTIONTEST.TEST_STEP');
-        $saved_test_data->addFilterFromString($saved_test_data->getMetaObject()->getUidAttributeAlias(), $this->getInputDataSheet($task)->getUidColumn()->getValues()[0], EXF_COMPARATOR_IN);
+        $saved_test_data->getFilters()->addConditionFromString($saved_test_data->getMetaObject()->getUidAttributeAlias(), $this->getInputDataSheet($task)->getUidColumn()->getValues()[0], EXF_COMPARATOR_IN);
         $saved_test_data->getColumns()->addFromExpression('MESSAGE_CORRECT');
         $saved_test_data->getColumns()->addFromExpression('MESSAGE_CURRENT');
         $saved_test_data->getColumns()->addFromExpression('OUTPUT_CORRECT');
